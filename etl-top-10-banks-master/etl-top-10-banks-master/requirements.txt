@@ -1,0 +1,7 @@
+StringIO
+requests
+BeautifulSoup
+pandas
+sqlite3
+datetime
+icecream
